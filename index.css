@@ -1,0 +1,109 @@
+.navbar{
+    margin: 5px;
+    background-color: lightgreen;
+    width: 100%; 
+    justify-content: space-around;
+}
+.navbar h1{
+    color: chocolate;
+    cursor: pointer;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 550;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-weight: 500;
+}
+.bgimg img{
+    margin: 5px;
+    height: 500px;
+    width: 100%;
+}
+.bgimg h1{
+    text-align: center;
+    color: chocolate;
+}
+.flex-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    background-color:bisque;
+    margin: 5px;
+    width: 100%;
+}
+.box{
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.box img{
+    cursor: pointer;
+    height: 300px;
+    width: 380px;
+}
+.box h4{
+    margin-top: 20px;
+    text-align: center;
+}
+.box p{
+    text-align: center;
+}
+.offer h1{
+    background-color: lightskyblue;
+    height: 50px;
+    width: 350px;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 10px;
+    margin-top: 30px;
+    color: chocolate;
+
+}
+.cotton{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.offer img{
+    margin: 5px;
+    margin-top: 10px;
+    height: 300px;
+    width: 500px;
+}
+.offer h3{
+    text-align: center;
+}
+.offer p{
+    text-align: center;
+}
+.link h1{
+    margin-top: 20px;
+    text-align: center;
+    color: chocolate;
+}
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+.image img{
+    cursor: pointer;
+    height: 70px;
+    border-radius: 20px;
+}
+.contact{
+    text-align: center;
+}
+.contact h1{
+    color: chocolate;
+    text-align: center;
+}
+
